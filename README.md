@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Song Kim, working as a game server developer in South Korea. 🎮
+
+If you want to contact me, please leave me a message!
+
+
+### 👩‍💻 Experience 
+ - Smilegate Entertainment (2018~)
 
 <!--
 **song-yyii/song-yyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
